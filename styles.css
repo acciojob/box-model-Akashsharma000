@@ -25,14 +25,15 @@ body {
     border-radius: 50%;
   }
 
- }
+ 
   .green {
-    background-color: #388e3c;
+    background-color: green;
   }
 
  
   .yellow {
-    background-color: #fbc02d;
+    background-color:yellow;
   }
   .red {
-    background-color: #d32f2f;
+    background-color: red;
+  }
